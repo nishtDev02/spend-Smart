@@ -17,7 +17,7 @@ const categoryColors = {
 
 const categoryEmojis = {
   food: "🍔",
-  shppping: "🛍️",
+  shopping: "🛍️",
   groceries: "🛒",
   transport: "🚗",
   entertainment: "🎬",
